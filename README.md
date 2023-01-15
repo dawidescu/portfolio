@@ -54,6 +54,12 @@ Value Analysis
 
 [Bug report for poszetka.com registration form](https://docs.google.com/document/d/1s4PUlK2Fd5sDLevCQwJ1SyinIjO8C8MbYgARd52Rm4o/edit?usp=sharing)
 
+## My Postman Collections
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/23062566-47f6f763-2dd3-412a-9d82-9115dca0c564?action=collection%2Ffork&collection-url=entityId%3D23062566-47f6f763-2dd3-412a-9d82-9115dca0c564%26entityType%3Dcollection%26workspaceId%3De740d758-4477-4dbe-8658-3a6b02ca3291)
+
+
+
 
 
 
