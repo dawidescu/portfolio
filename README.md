@@ -43,7 +43,6 @@ Value Analysis
 * https://www.satisfice.com/blog
 * https://testguild.com/
 * https://www.lambdatest.com/blog/
-* https://visible-quality.blogspot.com/
 * https://www.stickyminds.com/
 * https://testerzy.pl/
 * https://testelka.pl/
