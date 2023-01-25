@@ -2,7 +2,8 @@
 
 ## About me
 
-I'm creative and ambitious IT enthusiast with a background in music and teaching. After completing the five-month internship in QA testing specialization, I'm currently pursuing the ability to progress and expand my knowledge as a professional tester. During the intense time of training, I was able to learn much about testing strategies, tools and obtain the right mindset that helps me with effective bug detection, gathering information about the software product under test and working together in teams using the Agile methodology. At the present time I desire to learn a solid foundation of manual and automation testing skills, to become an adaptable, flexible professional who embraces teamwork, adds a substantial value to the development team and helps with creation of high quality software products. I'm hoping to find a company that strives for perfection in software quality, values amiable relationships and creates a friendly environment for the growth of its employees.
+I'm a creative and ambitious IT enthusiast with a background in music and education. Having completed a five-month internship in QA testing, I'm currently looking for an opportunity to develop and expand my knowledge as a professional tester. The intensive training has taught me about testing strategies, tools and attitudes that will help me find defects effectively, gather information about the software product under test and collaborate within an agile team. Currently, I would like to acquire a solid foundation of manual and automated testing skills to become an adaptable, flexible professional who embraces teamwork, adds significant value to the development team, and contributes to the creation of high-quality software products. I'm hoping to find a company that strives for perfection in software quality, values friendly relationships and creates a friendly environment for the growth of its employees.
+
 
 ## Tools
 
@@ -65,6 +66,7 @@ Value Analysis
 
 [Codecademy SQL Course Certificate](https://drive.google.com/file/d/1Vk2mMrap7gF_9T4IzhpZJyUbfjv5LXQy/view?usp=sharing)
 
+[SQL queries created by my during the training](https://docs.google.com/document/d/14W-7KCVTt9FtCBwBnb2k-GCL9xXr9NPOQiMfl6LP3yI/edit?usp=sharing)
 
 
 
