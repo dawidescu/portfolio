@@ -22,11 +22,12 @@ I'm a creative and ambitious IT enthusiast with a background in music and educat
 * Test design techniques (Equivalent Class Partitioning, Boundary
 Value Analysis
 * Basic knowledge and practice of the following topics and technologies:
-  * Windows, macOS and Linux platforms
-  * Networks (TCP/IP, DHCP, DNS, network protocols)
   * SQL 
   * JQL
-  * DevTools 
+  * DevTools
+  * Automating in the Browser using JavaScript
+  * Windows, macOS and Linux platforms
+  * Networks (TCP/IP, DHCP, DNS, network protocols)
   * Git and GitHub 
   * Python with pytest 
   * Selenium, Selenium WebDriver
