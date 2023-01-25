@@ -66,7 +66,7 @@ Value Analysis
 
 [Codecademy SQL Course Certificate](https://drive.google.com/file/d/1Vk2mMrap7gF_9T4IzhpZJyUbfjv5LXQy/view?usp=sharing)
 
-[SQL queries created by my during the training](https://docs.google.com/document/d/14W-7KCVTt9FtCBwBnb2k-GCL9xXr9NPOQiMfl6LP3yI/edit?usp=sharing)
+[SQL queries I've created during the training](https://docs.google.com/document/d/14W-7KCVTt9FtCBwBnb2k-GCL9xXr9NPOQiMfl6LP3yI/edit?usp=sharing)
 
 
 
