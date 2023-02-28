@@ -20,7 +20,7 @@ I'm a creative and ambitious IT enthusiast with a background in music and educat
 * Software Testing
 * Creating test documentation (test cases, checklists, reporting the defects and writing quality reports)
 * Test design techniques (Equivalent Class Partitioning, Boundary
-Value Analysis
+Value Analysis)
 * Basic knowledge and practice of the following topics and technologies:
   * SQL 
   * JQL
